@@ -1,0 +1,14 @@
+{
+  "name": "instabox-skill",
+  "description": "Agent skill for instabox.sh cloud Linux machines.",
+  "owner": {
+    "name": "igzard"
+  },
+  "plugins": [
+    {
+      "name": "instabox",
+      "source": "./",
+      "description": "Agent skill for instabox.sh cloud Linux machines: CLI, TypeScript SDK and HTTP API."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "instabox",
+  "description": "Agent skill for instabox.sh cloud Linux machines: CLI, TypeScript SDK and HTTP API.",
+  "version": "0.1.0",
+  "author": { "name": "igzard" },
+  "homepage": "https://github.com/igzard/instabox-skill",
+  "license": "MIT"
+}
